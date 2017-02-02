@@ -1,0 +1,29 @@
+{
+  "name": "tslint-sitepen",
+  "version": "0.1.0",
+  "description": "TSLint rules used by SitePen",
+  "contributors": [
+    { "name": "Paul Shannon", "email": "pshannon@sitepen.com" }
+  ],
+  "main": "tslint.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SitePen/tslint-sitepen.git"
+  },
+  "author": "SitePen <support@sitepen.com>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/SitePen/tslint-sitepen/issues"
+  },
+  "homepage": "https://github.com/SitePen/tslint-sitepen#readme",
+  "devDependencies": {
+    "tslint": "^4.4.2",
+    "typescript": "^2.1.5"
+  },
+  "peerDependencies": {
+    "tslint": ">=4.0.0"
+  }
+}
