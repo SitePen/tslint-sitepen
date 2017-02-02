@@ -1,6 +1,6 @@
 {
   "name": "tslint-sitepen",
-  "version": "0.1.0",
+  "version": "0.2.0-pre",
   "description": "TSLint rules used by SitePen",
   "contributors": [
     { "name": "Paul Shannon", "email": "pshannon@sitepen.com" }
